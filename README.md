@@ -22,6 +22,6 @@ Database - MySQL
 
 ## Before Running The App
 
-step 1 - Run the given [sql script](https://github.com/sudhikshaMalla/furniture-store/blob/main/furniture_store_sql_script.sql) in workbench.
+step 1 - Run the given [sql script](https://github.com/sudhi7/Furniture-Store/blob/main/furniture_store_sql_script.sql) in workbench.
 
 step 2 - Change the database url, username and password in [application.properties](https://github.com/sudhikshaMalla/furniture-store/blob/main/src/main/resources/application.properties) file
