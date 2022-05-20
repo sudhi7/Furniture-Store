@@ -1,0 +1,7 @@
+organization=sudhi7
+projectKey=sudhikshaMalla_furniture-store
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.28825
+dashboardUrl=https://sonarcloud.io/dashboard?id=sudhikshaMalla_furniture-store
+ceTaskId=AYCQgHxPioZcCmY77_2B
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYCQgHxPioZcCmY77_2B

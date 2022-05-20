@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sudhi7.springboot.furnitureStore.service.CustomerServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.798 s - in com.sudhi7.springboot.furnitureStore.service.CustomerServiceImplTest

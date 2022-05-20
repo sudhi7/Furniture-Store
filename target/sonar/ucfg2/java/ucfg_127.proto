@@ -1,0 +1,25 @@
+
+com.sudhi7.springboot.furnitureStore.controller.ItemController#itemDescription(ILorg/springframework/ui/Model;)Ljava/lang/String;‚
+x/home/saisum/Documents/furniture-store/src/main/java/com/sudhi7/springboot/furnitureStore/controller/ItemController.java> >(!"startingBlock*Þ
+startingBlock‚
+x/home/saisum/Documents/furniture-store/src/main/java/com/sudhi7/springboot/furnitureStore/controller/ItemController.java>! >(HÂ¿
+‚
+x/home/saisum/Documents/furniture-store/src/main/java/com/sudhi7/springboot/furnitureStore/controller/ItemController.java>< >(G%
+modelorg.springframework.ui.Model"java.util.HashMap*
+1*þ
+1‚
+x/home/saisum/Documents/furniture-store/src/main/java/com/sudhi7/springboot/furnitureStore/controller/ItemController.java? ?(!ÑÎ
+‚
+x/home/saisum/Documents/furniture-store/src/main/java/com/sudhi7/springboot/furnitureStore/controller/ItemController.java? ?(0
+%0java.lang.String"„com.sudhi7.springboot.furnitureStore.controller.ItemController#getItemDescription(ILorg/springframework/ui/Model;)Ljava/lang/String;*B@
+>com.sudhi7.springboot.furnitureStore.controller.ItemController*
+""*'
+%
+modelorg.springframework.ui.Model23getItemDescription(ILorg/springframework/ui/Model;)"Ÿ
+‚
+x/home/saisum/Documents/furniture-store/src/main/java/com/sudhi7/springboot/furnitureStore/controller/ItemController.java? ?(1
+
+%0java.lang.String:
+"":%
+modelorg.springframework.ui.ModelBB@
+>com.sudhi7.springboot.furnitureStore.controller.ItemController
